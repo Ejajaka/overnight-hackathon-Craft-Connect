@@ -1,4 +1,4 @@
-# Source-Truth Listings
+# Craft Connect
 
 Turn an artisan's spoken knowledge into a buyer-ready listing where **every claim is
 traceable to the maker and nothing is invented**. A WhatsApp-style chat interviews the
